@@ -1,2 +1,1 @@
-Hello, Hexlet!
-# fuzzy-pancake
+Next update after pain.md
